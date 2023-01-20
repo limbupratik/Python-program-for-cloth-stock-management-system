@@ -1,0 +1,11 @@
+----------Cutome management software------------
+                     
+---------Details of Borrower---------
+
+ Borrowed By: d sdf
+    Date: 2022-08-26     Time:12:49:48.976949
+
+ S.N. 		 Name of Custome 	         CostumeBrand 
+1. 		Fairy Costume Full Set		  DollarSmart
+
+ Total Borrow Price: $18
